@@ -1,0 +1,4 @@
+interface:
+  display_name: "阿里黑话转换器"
+  short_description: "将普通中文改写成阿里味大厂表达"
+  default_prompt: "Use $alibaba-jargon-translator to turn this normal Chinese message into polished Alibaba-style workplace jargon."
